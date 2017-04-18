@@ -5,4 +5,4 @@ Getting test runners to work in mono is a huge pain, and seems to break with eve
 
 This could also easily be ported into a CI set up since the console app would easily break down into an .exe which could be triggered in a custom script or service.
 
-Simply decorate test classes, test setup and tear down methods and test methods with the decorators in NunitMonoTests assembly, and the console application will discover test classes, collect thier test methods and run the initialise, test method, then teardown sequentially.
+Simply decorate test classes, test setup and tear down methods and test methods with the decorators in NunitMonoTests assembly, and the console application will discover test classes, collect their test methods and run the initialise, test method, then teardown sequentially.
