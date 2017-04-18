@@ -1,0 +1,6 @@
+/media/blackberry/BigData/win-workspace/NunitMonoTestWrapper/NunitMonoTestWrapper/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/media/blackberry/BigData/win-workspace/NunitMonoTestWrapper/NunitMonoTestWrapper/bin/Debug/NunitMonoTestWrapper.dll.mdb
+/media/blackberry/BigData/win-workspace/NunitMonoTestWrapper/NunitMonoTestWrapper/bin/Debug/NunitMonoTestWrapper.dll
+/media/blackberry/BigData/win-workspace/NunitMonoTestWrapper/NunitMonoTestWrapper/obj/Debug/NunitMonoTestWrapper.dll
+/media/blackberry/BigData/win-workspace/NunitMonoTestWrapper/NunitMonoTestWrapper/obj/Debug/NunitMonoTestWrapper.dll.mdb
+/media/blackberry/BigData/win-workspace/NunitMonoTestWrapper/NunitMonoTestWrapper/bin/Debug/nunit.framework.dll
